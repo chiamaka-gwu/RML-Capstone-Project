@@ -1,4 +1,4 @@
-# RML-Capstone-Project
+# DNSC 6330_11: RML Group 3 - capstone
 
 # Responsible ML Audit of HMDA Loan Approval Model
 
